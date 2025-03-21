@@ -1,7 +1,7 @@
 ## 👋 Welcome to my GitHub profile
 
 My name is Alexander Anastasiadis.<br/>
-I'm 33 Year's old **Front-end Developer & Photographer** from Athens Greece 🇬🇷.
+I'm 33 Year's old **Front-end Developer & Photographer** from Athens Greece.
 
 
 ## 🌎 Social Links
