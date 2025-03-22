@@ -7,7 +7,7 @@ I'm 33 Year's old **Front-end Developer & Photographer** from Athens Greece.
 ## 🌎 Social Links
 
 
-[![2504923[1]](https://hackmd.io/_uploads/S1jcSKo31x.png)](https://https://linkedin.com/in/estroxgr) [![2504935[1]](https://hackmd.io/_uploads/S1F1Ltjnye.png)](https://alexanasta.gr) [![2504947[1]](https://hackmd.io/_uploads/SynxIYi3yx.png)](https://x.com/estroxgr) [![2504918[1]](https://hackmd.io/_uploads/rJeM8tonJg.png)](https://instagram.com/estroxgr)
+[![Linkedin](https://hackmd.io/_uploads/S1jcSKo31x.png)](https://linkedin.com/in/estroxgr) [![Blog](https://hackmd.io/_uploads/S1F1Ltjnye.png)](https://alexanasta.gr) [![Twitter](https://hackmd.io/_uploads/SynxIYi3yx.png)](https://x.com/estroxgr) [![Instagram](https://hackmd.io/_uploads/rJeM8tonJg.png)](https://instagram.com/estroxgr)
 
 
 
