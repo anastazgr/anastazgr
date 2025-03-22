@@ -7,8 +7,8 @@ I'm 33 Year's old **Front-end Developer & Photographer** from Athens Greece.
 ## 🌎 Social Links
 
 
-[![Linkedin](https://cdn-icons-png.flaticon.com/32/2504/2504923.png)](https://linkedin.com/in/estroxgr)
-
+[![Linkedin](https://cdn-icons-png.flaticon.com/32/5968/5968791.png)](https://linkedin.com/in/estroxgr)
+[![Linkedin](https://cdn-icons-png.flaticon.com/32/5968/5968830.png)](https://x.com/estroxgr)
 
 
 
