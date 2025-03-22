@@ -8,7 +8,7 @@ I'm 33 Year's old **Front-end Developer & Photographer** from Athens Greece.
 
 
 [![Linkedin](https://cdn-icons-png.flaticon.com/32/2504/2504923.png)](https://linkedin.com/in/estroxgr)
-[![X](https://cdn-icons-png.flaticon.com/32/14417/14417709.png)](https://x.com/estroxgr)
+[![X](https://cdn-icons-png.flaticon.com/32/2504/2504947.png)](https://x.com/estroxgr)
 [![Instagram](https://cdn-icons-png.flaticon.com/32/2504/2504918.png)](https://instagram.com/estroxgr)
 [![Instagram](https://cdn-icons-png.flaticon.com/32/2504/2504918.png)](https://instagram.com/estroxgr)
 
